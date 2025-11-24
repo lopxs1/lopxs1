@@ -67,7 +67,7 @@ visão como dev.
 
 
 <div align="center">
- [![Lopes' GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ [![Lopes' GitHub stats](https://github-readme-stats.vercel.app/api?username=lopxs1)](https://github.com/anuraghazra/github-readme-stats)
   <img
     height="160"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopxs1&layout=compact&theme=tokyonight&hide_border=true"
