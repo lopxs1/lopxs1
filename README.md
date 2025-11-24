@@ -1,16 +1,14 @@
-::: {align="center"}
 # ⚡ Lopes --- Building, Learning & Shipping
 
 ### Transformando estudo em código.
 
 ### Transformando código em evolução.
 
-`<br>`{=html}
+------------------------------------------------------------------------
 
 ![Tech](https://img.shields.io/badge/Developer-In_Progress-00A8E8?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Web_Development-Fullstack-7F00FF?style=for-the-badge)
 ![Mindset](https://img.shields.io/badge/Mindset-Lifelong_Learner-00C853?style=for-the-badge)
-:::
 
 ------------------------------------------------------------------------
 
@@ -79,13 +77,11 @@ visão como dev.
 
 Preencha aqui com suas informações:
 
--   **Email:** *seu-email@exemplo.com*\
--   **Instagram:** *@seuuser*\
--   **LinkedIn:** *linkedin.com/in/seuuser*\
--   **Portfolio:** *seusite.com*
+-   **Email:** *devglopes@gmail.com*\
+-   **Instagram:** *@guhlopes22*\
+-   **LinkedIn:** *linkedin.com/in//gustavo-lopes-3309a3372/*\
+-   **Portfolio:** *construção.com*
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 ### 💬 "A tecnologia recompensa quem não foge do difícil."
-:::
