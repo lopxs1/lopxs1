@@ -1,51 +1,85 @@
-# 👋 Olá, eu sou o Lopes!
+::: {align="center"}
+# ⚡ Lopes --- Building, Learning & Shipping
 
-Bem-vindo ao meu perfil! Aqui você encontra meus estudos, projetos,
-anotações e tudo que estou construindo na minha jornada como
-desenvolvedor e estudante apaixonado por tecnologia.
+### Transformando estudo em código.
 
-## 🚀 Sobre mim
+### Transformando código em evolução.
 
--   📚 Estudante em evolução constante\
--   💻 Focado em desenvolvimento web e boas práticas\
--   🎯 Sempre buscando entender *por que* as coisas funcionam, não
-    apenas *como*\
--   🧠 Estudo temas como banco de dados, PHP, Laravel, Python, lógica e
-    modelagem\
--   🏀 Apaixonado por basquete e performance esportiva
+`<br>`{=html}
 
-## 🔧 Tecnologias e Ferramentas
-
-Atualmente estudo e utilizo:
-
--   **PHP** (com e sem frameworks)
--   **Laravel**
--   **JavaScript**
--   **MySQL**
--   **Python**
--   **HTML & CSS**
--   **Git & GitHub**
-
-## 📌 O que você vai encontrar aqui
-
--   Projetos de estudo e prática
--   Exercícios de lógica e algoritmos
--   Aplicações web em PHP e Laravel
--   Modelagem de dados e pequenos sistemas
--   Códigos criados para resolver problemas reais do dia a dia
-
-## 📈 Objetivos Atuais
-
--   Aprimorar minhas habilidades como desenvolvedor web\
--   Construir sistemas completos (front + back + banco)\
--   Aprender padrões de arquitetura e boas práticas\
--   Consolidar bases sólidas de programação
-
-## 📫 Como falar comigo
-
-Em breve adicionarei aqui meus contatos profissionais.
+![Tech](https://img.shields.io/badge/Developer-In_Progress-00A8E8?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Web_Development-Fullstack-7F00FF?style=for-the-badge)
+![Mindset](https://img.shields.io/badge/Mindset-Lifelong_Learner-00C853?style=for-the-badge)
+:::
 
 ------------------------------------------------------------------------
 
-⭐ *Sinta-se à vontade para explorar meus repositórios ou mandar
-sugestões!*
+# 🧠 Quem sou eu?
+
+Um estudante que decidiu levar a tecnologia a sério.\
+Curioso, inquieto, e sempre quebrando coisas até entender *como
+funcionam de verdade*.\
+Construindo projetos reais enquanto evoluo minha lógica, arquitetura e
+visão como dev.
+
+------------------------------------------------------------------------
+
+# 🚀 Stack & Ferramentas
+
+### 🔥 Core
+
+-   **PHP** --- puro e com **Laravel**
+-   **JavaScript**
+-   **Python**
+-   **MySQL**
+-   **HTML/CSS**
+-   **Git & GitHub**
+
+### 🧱 Em constante evolução
+
+-   Estruturação de sistemas
+-   Modelagem de dados
+-   APIs e integrações
+-   Boas práticas e padrões
+-   Performance e segurança
+
+------------------------------------------------------------------------
+
+# 🛠️ O que eu construo aqui
+
+-   Sistemas web do zero\
+-   Pequenos frameworks pessoais\
+-   Projetos de estudo hardcore\
+-   Scripts e automações\
+-   Treinos de lógica e desafios\
+-   Testes, erros e correções --- **o processo real**
+
+------------------------------------------------------------------------
+
+# 🎯 Missão Atual
+
+-   Consolidar minha base fullstack\
+-   Criar sistemas mais robustos\
+-   Profundidade \> superficialidade\
+-   Ser capaz de resolver qualquer problema que eu encarar
+
+------------------------------------------------------------------------
+
+# 📊 GitHub Stats (em breve)
+
+Pretendo adicionar: - gráficos de commits\
+- linguagens mais usadas\
+- heatmap\
+- seções visuais avançadas
+
+------------------------------------------------------------------------
+
+# 📡 Contato
+
+*(Adicionarei aqui quando necessário)*
+
+------------------------------------------------------------------------
+
+::: {align="center"}
+### 💬 "A tecnologia recompensa quem não foge do difícil."
+:::
