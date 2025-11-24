@@ -65,7 +65,13 @@ visão como dev.
 
 # 📊 GitHub Stats
 
-![Lopes Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lopxs1&show_icons=true&theme=tokyonight)
+<div align="center">
+
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lopxs1&show_icons=true&theme=tokyonight" />
+
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lopxs1&layout=compact&theme=tokyonight" />
+
+</div>
 
 ------------------------------------------------------------------------
 
