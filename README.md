@@ -37,10 +37,10 @@ visão como dev.
 
 ### 🧱 Em constante evolução
 
--   Estruturação de sistemas
--   Modelagem de dados
--   APIs e integrações
--   Boas práticas e padrões
+-   Estruturação de sistemas\
+-   Modelagem de dados\
+-   APIs e integrações\
+-   Boas práticas e padrões\
 -   Performance e segurança
 
 ------------------------------------------------------------------------
@@ -65,18 +65,24 @@ visão como dev.
 
 ------------------------------------------------------------------------
 
-# 📊 GitHub Stats (em breve)
+# 📊 GitHub Stats
 
-Pretendo adicionar: - gráficos de commits\
-- linguagens mais usadas\
-- heatmap\
-- seções visuais avançadas
+::: {align="center"}
+`<img height="160" src="https://github-readme-stats.vercel.app/api?username=lopxs1&show_icons=true&theme=tokyonight&hide_border=true" />`{=html}
+
+`<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopxs1&layout=compact&theme=tokyonight&hide_border=true" />`{=html}
+:::
 
 ------------------------------------------------------------------------
 
 # 📡 Contato
 
-*(Adicionarei aqui quando necessário)*
+Preencha aqui com suas informações:
+
+-   **Email:** *seu-email@exemplo.com*\
+-   **Instagram:** *@seuuser*\
+-   **LinkedIn:** *linkedin.com/in/seuuser*\
+-   **Portfolio:** *seusite.com*
 
 ------------------------------------------------------------------------
 
