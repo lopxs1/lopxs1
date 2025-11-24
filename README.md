@@ -67,11 +67,16 @@ visão como dev.
 
 
 <div align="center">
-
-![Lopes GitHub Stats](https://github-readme-stats.vercel.app/api?username=lopxs1&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Lopes Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopxs1&layout=compact&theme=tokyonight&hide_border=true)
-
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=lopxs1&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Lopes GitHub Stats"
+  />
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopxs1&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Lopes Top Langs"
+  />
 </div>
 
 ------------------------------------------------------------------------
