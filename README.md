@@ -1,16 +1,51 @@
-## Olá, eu sou o Gustavo Lopes 👋
+# 👋 Olá, eu sou o Lopes!
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lopxs1&show_icons=true&theme=tokyonight"\>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopxs1&theme=tokyonight"\>
-</div>
-<div style="display:inline_block"><br>
-  <img align="center" alt="lopxs1" height="30" witdh="40", src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="lopxs1" height="30" witdh="40", src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img align="center" alt="lopxs1" height="30" witdh="40", src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="lopxs1" height="30" witdh="40", src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-   <img align="center" alt="lopxs1" height="30" witdh="40", src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img align="center" alt="lopxs1" height="30" witdh="40", src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
-</div>
+Bem-vindo ao meu perfil! Aqui você encontra meus estudos, projetos,
+anotações e tudo que estou construindo na minha jornada como
+desenvolvedor e estudante apaixonado por tecnologia.
 
-##
+## 🚀 Sobre mim
+
+-   📚 Estudante em evolução constante\
+-   💻 Focado em desenvolvimento web e boas práticas\
+-   🎯 Sempre buscando entender *por que* as coisas funcionam, não
+    apenas *como*\
+-   🧠 Estudo temas como banco de dados, PHP, Laravel, Python, lógica e
+    modelagem\
+-   🏀 Apaixonado por basquete e performance esportiva
+
+## 🔧 Tecnologias e Ferramentas
+
+Atualmente estudo e utilizo:
+
+-   **PHP** (com e sem frameworks)
+-   **Laravel**
+-   **JavaScript**
+-   **MySQL**
+-   **Python**
+-   **HTML & CSS**
+-   **Git & GitHub**
+
+## 📌 O que você vai encontrar aqui
+
+-   Projetos de estudo e prática
+-   Exercícios de lógica e algoritmos
+-   Aplicações web em PHP e Laravel
+-   Modelagem de dados e pequenos sistemas
+-   Códigos criados para resolver problemas reais do dia a dia
+
+## 📈 Objetivos Atuais
+
+-   Aprimorar minhas habilidades como desenvolvedor web\
+-   Construir sistemas completos (front + back + banco)\
+-   Aprender padrões de arquitetura e boas práticas\
+-   Consolidar bases sólidas de programação
+
+## 📫 Como falar comigo
+
+Em breve adicionarei aqui meus contatos profissionais.
+
+------------------------------------------------------------------------
+
+⭐ *Sinta-se à vontade para explorar meus repositórios ou mandar
+sugestões!*
