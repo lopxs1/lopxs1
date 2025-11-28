@@ -74,7 +74,6 @@ Preencha aqui com suas informações:
 -   **Email:** *devglopes@gmail.com*\
 -   **Instagram:** *@guhlopes22*\
 -   **LinkedIn:** *linkedin.com/in//gustavo-lopes-3309a3372/*\
--   **Portfolio:** *construção.com*
 
 ------------------------------------------------------------------------
 
