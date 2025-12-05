@@ -1,80 +1,104 @@
-# ⚡ Lopes --- Building, Learning & Shipping
+<div align="center">
 
-### Transformando estudo em código.
+# ⚡ Lopes — Desenvolvedor Fullstack em Evolução Contínua
 
-### Transformando código em evolução.
+### “Aprendendo todos os dias a resolver problemas reais com código.”
 
-------------------------------------------------------------------------
+![Dev](https://img.shields.io/badge/Developer-Fullstack-7F00FF?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Data_&_Automation-00A8E8?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Learning-Blockchain_&_AI-00C853?style=for-the-badge)
 
-![Tech](https://img.shields.io/badge/Developer-In_Progress-00A8E8?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Web_Development-Fullstack-7F00FF?style=for-the-badge)
-![Mindset](https://img.shields.io/badge/Mindset-Lifelong_Learner-00C853?style=for-the-badge)
+</div>
 
-------------------------------------------------------------------------
+---
 
-# 🧠 Quem sou eu?
+# 🎓 Formação
+**Desenvolvimento de Sistemas — ETEC Fernando Prestes (Sorocaba/SP)**  
+Formado com foco em desenvolvimento web, arquitetura de aplicações e construção de sistemas completos.
 
-Um estudante que decidiu levar a tecnologia a sério.\
-Curioso, inquieto, e sempre quebrando coisas até entender *como
-funcionam de verdade*.\
-Construindo projetos reais enquanto evoluo minha lógica, arquitetura e
-visão como dev.
+---
 
-------------------------------------------------------------------------
+# 🧠 Sobre mim
+Sou um desenvolvedor que busca profundidade, não superfície.  
+Escrevo código para entender sistemas, resolver problemas reais e construir soluções estáveis e escaláveis.
 
-# 🚀 Stack & Ferramentas
+Minhas áreas de interesse e atuação incluem:
 
-### 🔥 Core
+- **Data**
+- **Automação**
+- **Backend**
+- **Fullstack**
+- **Blockchain**
 
--   **PHP** --- puro e com **Laravel**
--   **JavaScript**
--   **Python**
--   **MySQL**
--   **HTML/CSS**
--   **Git & GitHub**
+Atualmente, estou iniciando estudos independentes em **Ciência de Dados**, complementando meu conhecimento técnico com análise, visualização e manipulação de dados.
 
-### 🧱 Em constante evolução
+---
 
--   Estruturação de sistemas\
--   Modelagem de dados\
--   APIs e integrações\
--   Boas práticas e padrões\
--   Performance e segurança
+# 🛠️ Tecnologias & Ferramentas
 
-------------------------------------------------------------------------
+### 🔥 Fortes
+- **PHP**, **PDO**
+- **MySQL**
+- **HTML**, **CSS**, **Bootstrap**
+- **Git & GitHub**
+- **Apache**, **Composer**
 
-# 🛠️ O que eu construo aqui
+### ⚡ Intermediário
+- **Python**
+- **JavaScript**
+- **React**
+- **Laravel**
 
--   Sistemas web do zero\
--   Pequenos frameworks pessoais\
--   Projetos de estudo hardcore\
--   Scripts e automações\
--   Treinos de lógica e desafios\
--   Testes, erros e correções --- **o processo real**
+### 🚀 Estudando / Quero Dominar
+- **Node.js**
+- **Docker**
+- **AWS**
+- **IA & Machine Learning**
+- **Blockchain**
 
-------------------------------------------------------------------------
+---
 
-# 🎯 Missão Atual
+# 🧩 Projetos em Destaque
 
--   Consolidar minha base fullstack\
--   Criar sistemas mais robustos\
--   Profundidade \> superficialidade\
--   Ser capaz de resolver qualquer problema que eu encarar
+## 🧱 **Actual Porcelanatos**
+Meu maior projeto até agora — um sistema completo para gestão de pedidos, usuários, produtos, orçamentos e controle interno.  
+Construído com foco em arquitetura clara, escalabilidade e boas práticas.
 
-------------------------------------------------------------------------
+## 📊 **Workout-Lab**
+Aplicação pessoal para organização dos meus treinos na academia.  
+Trabalha com banco de dados relacional, interface limpa e foco em usabilidade.
+
+---
 
 # 📊 GitHub Stats
 
-------------------------------------------------------------------------
+<div align="center">
 
-# 📡 Contato
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=lopxs1&show_icons=true&theme=tokyonight" />
 
-Preencha aqui com suas informações:
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopxs1&layout=compact&theme=tokyonight" />
 
--   **Email:** *devglopes@gmail.com*\
--   **Instagram:** *@guhlopes22*\
--   **LinkedIn:** *linkedin.com/in//gustavo-lopes-3309a3372/*\
+</div>
 
-------------------------------------------------------------------------
+---
 
-### 💬 "A tecnologia recompensa quem não foge do difícil."
+# 🧭 Objetivos Atuais
+- Aprofundar em **Back-end** e **arquitetura de sistemas**  
+- Evoluir como **Dev Fullstack**  
+- Estudar **Data Science** com foco prático  
+- Dominar tecnologias como Docker, Node, AWS  
+- Entrar no universo **Blockchain** e explorar contratos inteligentes  
+
+---
+
+# 🛰️ Filosofia profissional
+Desenvolver é mais do que escrever código.  
+É observar um problema, decompor, estruturar, testar, errar, corrigir — e evoluir.
+
+---
+
+<div align="center">
+
+### 🔥 *"Progresso consistente supera perfeição."*
+
+</div>
