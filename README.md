@@ -13,8 +13,9 @@
 ---
 
 # 🎓 Formação
+**Análise e Desenvolvimento de Sistemas — Faculdade de Tecnologia de Sorocaba (Sorocaba/SP)**
+
 **Desenvolvimento de Sistemas — ETEC Fernando Prestes (Sorocaba/SP)**  
-Formado com foco em desenvolvimento web, arquitetura de aplicações e construção de sistemas completos.
 
 ---
 
